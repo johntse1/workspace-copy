@@ -1,0 +1,17 @@
+.textstuff {
+    resize:none;
+    width: 40%;
+}
+input[type=text]{
+    width:30%;
+}
+.title{
+    font-size: 32;
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',monospace;
+    text-align: left;
+}
+
+.containerreview{
+    width: 40%;
+}
+

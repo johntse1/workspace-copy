@@ -1,0 +1,40 @@
+.uli {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: sticky;
+    top: 0;
+  }
+  
+  .lii {
+    float: left;
+  }
+  
+  .navLink {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  .navLink:hover {
+    background-color: #111;
+  }
+
+  .logOut {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float:right
+
+  }
+
+  .logOut:hover {
+    background-color: rgb(190, 10, 10);
+  }

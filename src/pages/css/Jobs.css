@@ -1,0 +1,19 @@
+.jobs{
+    text-align: center;
+    border: 1px;
+}
+.head{
+    text-align: center;
+    font-size: 50;
+}
+.jobpanel{
+    text-align: center;
+}
+
+input[type=number]{
+    width: 30%;
+}
+
+.selectSkill{
+    width:30%;
+}

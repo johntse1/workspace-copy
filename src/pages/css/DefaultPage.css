@@ -1,0 +1,49 @@
+input{
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: line;
+    width: 30%;
+}
+
+input[type=password]{
+    width: 30%;
+}
+
+.emailInput{
+    width: 200px;
+}
+
+.textstuffregister {
+    resize:none;
+    width: 30%;
+}
+
+.dropDown{
+    width: 30%;
+}
+
+.entireLogin{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.big{
+    display: flex;
+    height: 50%;
+}
+
+.container{
+    width: 40%;
+    margin: 0px;
+
+}
+.tabs{
+    align-items: center;
+    justify-content: center;
+}
+
+.uploadregister{
+    width: 50px;
+    height: 50px;
+}

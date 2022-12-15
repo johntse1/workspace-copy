@@ -1,0 +1,4 @@
+NODE_ENV = development
+PORT = 3001
+MONGO_URI = mongodb+srv://workspace:password10@workspace.xwj7vvw.mongodb.net/workspacedb?retryWrites=true&w=majority
+JWT_SECRET = abc123

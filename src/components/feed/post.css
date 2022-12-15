@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+
+.post {
+    border-radius: 25px;
+    border: 2px solid #22251c;
+    width: 20%;
+    height: 50%; 
+    align-items: center;
+    display:flex;
+    flex-direction: column;
+    margin:15px;
+    background-color: white;
+    font-family: Poppins;
+    padding-left: 8px;
+    overflow: auto;
+}
+
+.title{
+    font-size: 28px;
+    width: 100%;
+}
+
+.user{
+    font-size: 18px;
+    text-align: left;
+    width: 100%;
+}
+
+.description{
+    text-align: left;
+    width: 100%;
+    font-size: 14px;
+}
+
+.postImg {
+    width:150px;
+    height:150px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.images {
+    display: flex;
+}
+
+.price{
+    font-size: 18px;
+}
+
+.descriptionuser{
+    font-size: 20px;
+}
+
+.userpost{
+    font-size: 24px;
+}

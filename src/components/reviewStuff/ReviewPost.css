@@ -1,0 +1,20 @@
+.titleP{
+    font-size: 24px;
+}
+.name{
+    font-size: 18px;
+}
+.rating{
+    font-size: 18px;
+}
+.description{
+    font-size: 18px;
+    text-align: center;
+    justify-content: center;
+    float: none;
+   align-items: center;
+}
+hr{
+    background-color: black;
+}
+

@@ -1,0 +1,43 @@
+.profileusername{
+    padding: 1px;
+    font-size: 28px;
+}
+.profileemail{
+    padding: 5px;
+    font-size: 20px;
+}
+.profileid{
+    padding: 5px;
+    font-size: 28px;
+}
+
+.picture {
+    display:flex;
+    justify-content: center;
+    height:250px;
+    width:250px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    padding:10px;
+    padding-left: 0px;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
+.bigboy {
+    display:block;
+    justify-content: center;
+    text-align: center;
+    background-color: lightgray;
+}
+
+.tab{
+    height: 100%;
+}
+
+.container1{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}

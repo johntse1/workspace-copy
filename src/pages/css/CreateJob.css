@@ -1,0 +1,21 @@
+
+.upload{
+    width: 75px;
+    height: 75px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.label{
+    width: 75px;
+    height: 75px;
+}
+
+.containercreate{
+    width: 50%;
+    margin: 0px;
+}
+
+.textareajob{
+    width: 30%;
+}
